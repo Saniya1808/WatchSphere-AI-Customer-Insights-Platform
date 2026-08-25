@@ -1,0 +1,13 @@
+VendorID,CompanyName,OwnerName,Email,Phone,GSTNumber,Address,City,State,Status
+1,Titan,Titan Admin,contact@titan.com,9889824112,GST00001,Bengaluru,Bengaluru,NA,Active
+2,Sonata,Sonata Admin,contact@sonata.com,9875006230,GST00002,Bengaluru,Bengaluru,NA,Active
+3,Fastrack,Fastrack Admin,contact@fastrack.com,9892147607,GST00003,Bengaluru,Bengaluru,NA,Active
+4,Casio,Casio Admin,contact@casio.com,9837396294,GST00004,Tokyo,Tokyo,NA,Active
+5,Timex,Timex Admin,contact@timex.com,9870526035,GST00005,Connecticut,Connecticut,NA,Active
+6,Fossil,Fossil Admin,contact@fossil.com,9871879062,GST00006,Texas,Texas,NA,Active
+7,Boat,Boat Admin,contact@boat.com,9899702894,GST00007,Delhi,Delhi,NA,Active
+8,Noise,Noise Admin,contact@noise.com,9843217398,GST00008,Gurugram,Gurugram,NA,Active
+9,Fire-Boltt,Fire-Boltt Admin,contact@fireboltt.com,9897335818,GST00009,Delhi,Delhi,NA,Active
+10,Ajanta,Ajanta Admin,contact@ajanta.com,9839753466,GST00010,Morbi,Morbi,NA,Active
+11,Citizen,Citizen Admin,contact@citizen.com,9838214245,GST00011,Tokyo,Tokyo,NA,Active
+12,Maxima,Maxima Admin,contact@maxima.com,9895286058,GST00012,Delhi,Delhi,NA,Active

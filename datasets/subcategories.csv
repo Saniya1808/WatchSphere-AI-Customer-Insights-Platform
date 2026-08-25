@@ -1,0 +1,16 @@
+SubCategoryID,CategoryID,SubCategoryName
+1,1,Analog
+2,1,Digital
+3,1,Chronograph
+4,1,Luxury
+5,1,Sports
+6,1,Kids
+7,2,AMOLED
+8,2,Fitness
+9,2,Bluetooth Calling
+10,2,Budget
+11,2,Premium
+12,3,Wooden
+13,3,Metal
+14,3,Vintage
+15,3,Designer
