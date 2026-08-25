@@ -30,6 +30,7 @@ streamlit-aggrid>=0.3.4
 # Environment & Utilities
 python-dotenv>=1.0.1
 requests>=2.31.0,<3.0.0
+email-validator
 
 # Testing
 pytest>=8.0.0,<9.0.0
