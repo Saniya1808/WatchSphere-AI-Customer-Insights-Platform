@@ -26,6 +26,7 @@ streamlit-extras>=0.4.0
 plotly>=5.19.0,<6.0.0
 pandas>=2.2.0,<3.0.0
 streamlit-aggrid>=0.3.4
+scikit-learn
 
 # Environment & Utilities
 python-dotenv>=1.0.1
